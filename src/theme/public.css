@@ -23,25 +23,6 @@
 .icon-xiangzuojiantou:before { content: "\e660"; }
 .icon-xiangyoujiantou:before { content: "\e65f"; }
 
-
-body {
-  margin: 0px;
-  padding: 0px;
-  /*background: url(assets/bg1.jpg) center !important;
-  background-size: cover;*/
-  background: #ffffff;
-  font-size: 12px;
-  -webkit-font-smoothing: antialiased;
-}
-body, button, input, select, textarea {
-  font: 400 1em/1.5 PingFang SC,/*Lantinghei SC,Helvetica Neue,*/Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans;
-}
-ul,li,dl,dt,dd{ margin:0; padding:0; list-style:none;}
-em,i{ font-style:normal; margin:0; padding:0;}
-h1,h2,h3,h4,h5,p{ margin:0; padding:0;}
-a{ cursor: pointer;}
-
-
 .full-jcalendar{
   position: relative;
   font-size: 14px;
